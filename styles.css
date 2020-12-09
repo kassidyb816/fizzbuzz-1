@@ -1,1 +1,23 @@
 
+h1 {
+    color: rebeccapurple;
+    text-align: center;
+    border: 10px solid rebeccapurple;
+    padding: 10px; 
+    background-color: grey;
+    text-shadow: 2px grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+p {
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 25 px solid gray;
+    margin: 20px;
+    text-color: 
+
+}
+img {
+    size: 25 px; 
+}
