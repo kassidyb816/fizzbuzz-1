@@ -1,11 +1,10 @@
-
 h1 {
-    color: rebeccapurple;
+    color: #fd5c63;
     text-align: center;
-    border: 10px solid rebeccapurple;
+    border: 10px solid lightblue;
     padding: 10px; 
-    background-color: grey;
-    text-shadow: 2px grey;
+    background-color: #ACE1AF;
+    text-shadow: 10px grey;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
@@ -15,9 +14,10 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 25 px solid gray;
     margin: 20px;
-    text-color: 
+    text-emphasis-color: #fd5c63;
 
 }
-img {
-    size: 25 px; 
+body {
+    background-color: #fdfd96;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
